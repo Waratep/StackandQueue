@@ -1,6 +1,6 @@
 # StackandQueue
 ```
-Stack and Queue in c (Only int type)
+Stack and Queue in c with dynamic memory (Only int type)
 
 
 run with makefile
